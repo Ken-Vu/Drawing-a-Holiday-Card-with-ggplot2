@@ -8,7 +8,7 @@ A blog on how I drew this card can be found here:
 # Tools Used
 The code was written with RStudio 2023.09.0 Build 463 and the R programming language (version 4.3.1).
 
-The following libraries were used to in R code: 
+The following libraries were used in the R code: 
 - **[`pacman`](https://www.rdocumentation.org/packages/pacman/)** (ver. 0.5.1): a convenient package for loading and auto-updating packages all at once.
 - **[`dplyr`](https://www.rdocumentation.org/packages/dplyr/)** (ver. 1.1.3): a package that is part of the [`tidyverse`](https://tidyverse.tidyverse.org/) set of packages (along with `ggplot2`) that provides advanced methods for wrangling with your data 
 - **[`ggplot2`](https://www.rdocumentation.org/packages/ggplot2/)** (ver. 3.4.3): the data visualization package designed by Hadley Wickham that contains a variety of plotting functions used to construct the holiday card
