@@ -3,7 +3,7 @@ This repository contains R code as well as .tff files needed to draw and craft a
 
 A blog on how I drew this card can be found here:
 
-![](holiday_card.png){width="70%"}
+![](holiday_card.png)
 
 # Tools Used
 The code was written with RStudio 2023.09.0 Build 463 and the R programming language (version 4.3.1).
