@@ -1,7 +1,7 @@
 # Drawing-a-Holiday-Card-with-ggplot2
 This repository contains R code as well as .tff files needed to draw and craft a holiday card (as shown below).
 
-A blog on how I drew this card can be found here:
+A blog on how I drew this card can be found here: [https://kvu777.quarto.pub/the-r-files/posts/a_christmas_peril/](https://kvu777.quarto.pub/the-r-files/posts/a_christmas_peril/)
 
 ![](holiday_card.png)
 
